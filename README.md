@@ -1,3 +1,1 @@
 # barberShop
-Test project Barbershop
-
