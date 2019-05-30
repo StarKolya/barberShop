@@ -1,0 +1,33 @@
+/*@font-face {
+    font-family: 'localPTSans';
+    src: url("../fonts/ptsansNarrow.woff2") format("woff2"),
+    url("../fonts/ptsansNarrow.woff") format("woff");
+}*/
+
+
+
+body {
+    font-family: 'PT Sans Narrow', 'Times New Roman',  sans-serif;
+}
+
+.header-div {
+    height: 72px;
+    background-color: black;
+}
+.header-ul {
+    color: white;
+    display: flex;
+    width: 1000px;
+    justify-content: flex-start;
+}
+
+.header-li {
+    margin-left: 40px;
+    font-size: 16px;
+    line-height: 40px;
+    list-style: none;
+    padding-top: 15px;
+}
+.header-li.entrance {
+    margin-left: 815px;
+}
