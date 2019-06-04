@@ -7,17 +7,19 @@
 
 
 body {
-    font-family: 'PT Sans Narrow', 'Times New Roman',  sans-serif;
+
 }
 
 .header-div {
     height: 72px;
     background-color: black;
+    font-family: 'PT Sans Narrow', 'Times New Roman',  sans-serif;
+
 }
 .header-ul {
     color: white;
     display: flex;
-    width: 1000px;
+    width: 2000px;
     justify-content: flex-start;
 }
 
@@ -29,5 +31,44 @@ body {
     padding-top: 15px;
 }
 .header-li.entrance {
-    margin-left: 815px;
+    margin-left: 785px;
+}
+.main-ul {
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+}
+.main-div {
+    text-align: center;
+}
+.main-section {
+
+}
+.main-li {
+    justify-content: flex-start;
+    list-style-type: none;
+}
+.main-li-2 {
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 40px;
+}
+.main-h2 {
+    margin-left: 80px;
+
+}
+.main-a {
+    width: 140px;
+    height: 45px;
+    background-color: black;
+    color: white;
+}
+.main-h2-2 {
+    margin-left: 215px;
+}
+.main-div-2 {
+    width: 940px;
+    background-color: white;
+    border: black 2px solid;
 }
