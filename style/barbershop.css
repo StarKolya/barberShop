@@ -1,5 +1,9 @@
 body {
     font-family: 'PT Sans Narrow', sans-serif;
+    background-image: url("Layer.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .container {
