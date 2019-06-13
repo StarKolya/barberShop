@@ -55,6 +55,7 @@ body {
 .advantages-item {
     width: 32%;
     text-align: center;
+    color: white;
 }
 
 .advantages-item-text {
